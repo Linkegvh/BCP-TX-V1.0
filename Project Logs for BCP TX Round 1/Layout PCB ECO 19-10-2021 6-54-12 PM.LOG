@@ -1,0 +1,3 @@
+Added Component: Designator=R9(2512)
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Member To Class: ClassName=schematics Member=Component R9 Resistor_2512
